@@ -2,8 +2,30 @@
   text-align: center;
 }
 
+h1 {
+  margin: 2rem;
+  color: darkgreen;
+}
+
 .result {
   display: flex;
   flex-direction: row;
   justify-content: center;
+}
+
+button {
+  border-radius: 50%;
+  font-size: 1rem;
+  height: 60px;
+  width: 60px;
+  background-color: rgb(159, 180, 126);
+  border-style: none;
+}
+
+input {
+  font-size: large;
+}
+
+.split {
+  padding-top: 2rem;
 }
