@@ -21,8 +21,8 @@ function App() {
         <button onClick={(e) => handleSplit(e)}>SPLIT</button>
       </form>
       <div className="result">
-        <h2>M: {resultM}</h2>
-        <h2>B: {resultB}</h2>
+        <h2 style={{ margin: "2rem" }}>M: {resultM}</h2>
+        <h2 style={{ margin: "2rem" }}>B: {resultB}</h2>
       </div>
     </div>
   );
