@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bill-splitter/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/bill-splitter/static/js/main.7d6e10d0.chunk.js",
-    "main.js.map": "/bill-splitter/static/js/main.7d6e10d0.chunk.js.map",
+    "main.css": "/bill-splitter/static/css/main.952d7a93.chunk.css",
+    "main.js": "/bill-splitter/static/js/main.85c5f348.chunk.js",
+    "main.js.map": "/bill-splitter/static/js/main.85c5f348.chunk.js.map",
     "runtime-main.js": "/bill-splitter/static/js/runtime-main.0bf1fc07.js",
     "runtime-main.js.map": "/bill-splitter/static/js/runtime-main.0bf1fc07.js.map",
     "static/js/2.8b261b37.chunk.js": "/bill-splitter/static/js/2.8b261b37.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.8c831654.chunk.js": "/bill-splitter/static/js/3.8c831654.chunk.js",
     "static/js/3.8c831654.chunk.js.map": "/bill-splitter/static/js/3.8c831654.chunk.js.map",
     "index.html": "/bill-splitter/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/bill-splitter/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.952d7a93.chunk.css.map": "/bill-splitter/static/css/main.952d7a93.chunk.css.map",
     "static/js/2.8b261b37.chunk.js.LICENSE.txt": "/bill-splitter/static/js/2.8b261b37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0bf1fc07.js",
     "static/js/2.8b261b37.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.7d6e10d0.chunk.js"
+    "static/css/main.952d7a93.chunk.css",
+    "static/js/main.85c5f348.chunk.js"
   ]
 }
