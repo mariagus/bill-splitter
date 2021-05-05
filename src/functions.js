@@ -1,9 +1,9 @@
 const calculateB = (amount) => {
-  return String(Math.round(amount * 0.6));
+  return String(Math.round(amount * 0.616));
 };
 
 const calculateM = (amount) => {
-  return String(Math.round(amount * 0.4));
+  return String(Math.round(amount * 0.384));
 };
 
 export { calculateB, calculateM };
